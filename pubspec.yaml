@@ -1,0 +1,15 @@
+name: source_gen_example
+description: A simple console application.
+version: 0.0.1
+#homepage: https://www.example.com
+#author: Thanasis Voivodas <email@example.com>
+
+environment:
+  sdk: '>=1.20.1 <2.0.0'
+
+#dependencies:
+#  path: ^1.4.1
+
+dev_dependencies:
+  source_gen: ^0.5.4+3
+  build_runner: any
